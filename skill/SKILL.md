@@ -68,15 +68,34 @@ Barème général du bac : 40 % contrôle continu, 60 % épreuves finales. Véri
 4. **Produire** en nommant la capacité visée et en signalant les approfondissements.
 5. **Vérifier** : chaque notion de la fiche/exo se retrouve dans le PDF. Si une notion n'y est pas, elle est hors programme pour ce niveau — le dire.
 
-## Chapitres de référence (1ère générale, profil scientifique)
+## Matières couvertes
 
-Détail et liens dans `references/programmes-1ere-generale-2026.md` :
+Une fiche par matière dans `references/matieres/`, chacune avec la version du programme en vigueur, les parties du BO et les épreuves. Index synthétique : `references/programmes-1ere-generale-2026.md`.
 
-- **Maths spé (2026)** : algèbre (suites, second degré) · analyse (dérivation, variations, exponentielle, trigonométrie) · géométrie (calcul vectoriel et produit scalaire, géométrie repérée) · probas-stats (conditionnelles et indépendance, variables aléatoires) · transversal (logique, algorithmique et listes Python, automatismes).
-- **PC spé (2019)** : 4 thèmes — constitution et transformations de la matière · mouvement et interactions · énergie, conversions et transferts · ondes et signaux ; plus « mesure et incertitudes » (type A et B).
-- **SVT spé (2019)** : 3 thèmes — transmission, variation et expression du patrimoine génétique · enjeux planétaires contemporains · corps humain et santé.
-- **NSI (2019)** : types et valeurs de base · types construits · tables · interaction homme-machine sur le Web · architectures et OS · langages et programmation · algorithmique. Python 3.
-- **ES 1ère (2023)** et **maths intégrées à l'ES (2026)** : pour les élèves sans spé maths.
+| Spécialité (13) | Fiche | Tronc commun | Fiche |
+|---|---|---|---|
+| Mathématiques | `maths.md` | Français | `francais.md` |
+| Physique-chimie | `physique-chimie.md` | Histoire-géo + EMC | `histoire-geo-emc.md` |
+| SVT | `svt.md` | Langues vivantes | `langues-vivantes.md` |
+| NSI | `nsi.md` | EPS | `eps.md` |
+| SES | `ses.md` | Enseignement scientifique | `enseignement-scientifique.md` |
+| HGGSP | `hggsp.md` | | |
+| HLP | `hlp.md` | **Options de Terminale** | |
+| LLCER | `llcer.md` | Maths expertes, maths complémentaires, droit et grands enjeux du monde contemporain | — |
+| LLCA (latin/grec) | `llca.md` | | |
+| Sciences de l'ingénieur | `si.md` | | |
+| Arts (6 options) | `arts.md` | | |
+| EPPCS | `eppcs.md` | | |
+| Biologie-écologie | `biologie-ecologie.md` | | |
+
+Attention à ne pas appeler « spécialité » ce qui est une option de Terminale : maths expertes, maths complémentaires (AMC) et droit et grands enjeux du monde contemporain n'existent pas en 1ère.
+
+## Déploiement : un profil par matière
+
+Le dépôt qui porte ce skill contient aussi `install.sh` (Linux/macOS) et `install.ps1` (Windows) : ils installent le skill et créent un profil Hermes par matière (`lycee-maths`, `lycee-svt`, `lycee-francais`…), chacun avec son SOUL borné à sa discipline et sa mémoire amorcée. Lancer une matière : `hermes -p lycee-maths chat`.
+
+Pourquoi un profil par matière plutôt qu'un seul agent : la mémoire d'un profil reste propre à la discipline (difficultés récurrentes en maths ne polluent pas le français), et le SOUL peut imposer un ton et un périmètre adaptés. Le skill lui-même est identique dans tous les profils — il n'est chargé qu'à la demande.
+
 
 ## Ressources libres utilisables
 

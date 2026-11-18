@@ -1,0 +1,20 @@
+# slug	libellé	fiche de référence	description du profil
+lycee	Professeur particulier	—	Tuteur général de 1ère générale : oriente vers le bon profil matière.
+lycee-maths	Mathématiques	maths.md	Prof de maths de 1ère générale (spécialité maths, programme 2026).
+lycee-physique-chimie	Physique-chimie	physique-chimie.md	Prof de physique-chimie de 1ère générale (spécialité).
+lycee-svt	SVT	svt.md	Prof de SVT de 1ère générale (spécialité).
+lycee-nsi	NSI	nsi.md	Prof de NSI de 1ère générale (spécialité, Python).
+lycee-ses	SES	ses.md	Prof de SES de 1ère générale (spécialité).
+lycee-hggsp	HGGSP	hggsp.md	Prof de HGGSP de 1ère générale (spécialité).
+lycee-hlp	HLP	hlp.md	Prof de HLP de 1ère générale (spécialité).
+lycee-llcer	LLCER	llcer.md	Prof de langues, littératures et cultures étrangères de 1ère générale.
+lycee-llca	LLCA (latin/grec)	llca.md	Prof de littérature, langues et cultures de l'Antiquité de 1ère générale.
+lycee-si	Sciences de l'ingénieur	si.md	Prof de sciences de l'ingénieur de 1ère générale.
+lycee-arts	Arts	arts.md	Prof d'arts de 1ère générale (arts plastiques, cinéma, danse, histoire des arts, musique, théâtre).
+lycee-eppcs	EPPCS	eppcs.md	Prof d'éducation physique, pratiques et culture sportives de 1ère générale.
+lycee-biologie-ecologie	Biologie-écologie	biologie-ecologie.md	Prof de biologie-écologie (lycée agricole) en 1ère générale.
+lycee-francais	Français	francais.md	Prof de français de 1ère : objets d'étude, épreuves anticipées écrit et oral.
+lycee-histoire-geo	Histoire-géo et EMC	histoire-geo-emc.md	Prof d'histoire-géographie et d'EMC de 1ère générale.
+lycee-langues	Langues vivantes	langues-vivantes.md	Prof de langues vivantes (LVA/LVB, LVC) de 1ère générale.
+lycee-eps	EPS	eps.md	Prof d'EPS de 1ère générale.
+lycee-enseignement-scientifique	Enseignement scientifique	enseignement-scientifique.md	Prof d'enseignement scientifique de 1ère générale (tronc commun).
