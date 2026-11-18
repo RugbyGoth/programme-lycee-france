@@ -133,10 +133,10 @@ Puis supprimer le dossier `skills/programmes-lycee-france` du répertoire de don
 
 ## Limites, dites franchement
 
-- Les fiches sont établies sur les **PDF officiels au 18 novembre 2026**. Les maths de 1ère ont changé à la rentrée 2026 (BO du 2 avril 2026) ; les autres disciplines sont sur les programmes 2019, l'enseignement scientifique sur celui de 2023. Si un BO paraît, relancer le script de téléchargement et comparer.
+- Les fiches sont établies sur les **PDF officiels au 18 novembre 2026**. Millésimes : maths de 1ère **2026** (BO du 2 avril 2026), langues vivantes **2025** (applicable depuis la rentrée 2026-2027), EMC **2024** (idem), enseignement scientifique **2023**, PC/SVT/NSI/HG/EPS **2019** (EPS avec la note d'évaluation de février 2026). Si un BO paraît, relancer le script de téléchargement et comparer.
 - **Le bac n'est plus celui de 2019** : depuis la session 2027 il y a une épreuve anticipée de mathématiques (écrit 2 h, coefficient 2) en plus du français, et le grand oral vaut 8. `skill/references/epreuves-bac.md` porte le tableau officiel et sa source.
 - Certaines spécialités sont moins détaillées que d'autres (biologie-écologie, arts, EPPCS) : la fiche le dit quand une information n'a pas pu être vérifiée. Mieux vaut une fiche honnête qu'une fiche inventée.
-- Les **œuvres au programme de français** changent chaque année : la fiche renvoie à éduscol, elle ne fige pas de liste.
+- Les **œuvres au programme de français** changent chaque année : la fiche cite celles de 2026-2027 avec leur note de service ; ne jamais les réutiliser pour l'année suivante, revérifier sur éduscol.
 - Aucun contenu de manuel ou de cours de professeur n'est recopié. Les ressources tierces citées (Bacomathiques, MathALÉA, NSI Clemenceau) gardent leurs licences, décrites dans `skill/references/ressources-libres.md`.
 - Les PDF du BO ne sont pas dans le dépôt : le script les télécharge depuis education.gouv.fr.
 

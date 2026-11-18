@@ -31,7 +31,11 @@ Les programmes de lycée ont bougé. Deux millésimes coexistent :
 | SVT (2de, 1ère, Tle) | BO spécial n° 1 du 22 janvier 2019 (+ spé Tle BO spécial n° 8) |
 | NSI (1ère, Tle) | BO spécial n° 1 du 22 janvier 2019 ; épreuve pratique remaniée (note du 4-7-2025, puis BO n° 38 du 8-10-2026 pour la session 2027) |
 | Enseignement scientifique 1ère | **BO du 22 juin 2023** |
-| Français, HG, EMC, langues, EPS | 2019, sauf œuvre au programme de français renouvelée **chaque année** |
+| Langues vivantes (LVE) | **BO n° 22 du 29 mai 2025**, applicable en 1ère et Terminale depuis la rentrée 2026-2027 ; les langues régionales restent sur 2019 |
+| EMC | **BO n° 24 du 13 juin 2024**, en application à tous les niveaux depuis la rentrée 2026-2027 |
+| Histoire-géographie | BO spécial n° 1 du 22 janvier 2019 (annexe 2), toujours en vigueur |
+| Français | Programme 2019 modifié ; épreuves redéfinies par la note de service du 11-9-2026 ; **œuvres renouvelées chaque année** |
+| EPS | BO spécial n° 1 du 22 janvier 2019 + note de service du 20 février 2026 pour l'évaluation (contrôle en cours de formation) |
 
 Conséquence pratique : pour les maths, ne pas resservir une progression d'avant 2026. Le **produit scalaire et la géométrie repérée du cercle** sont passés en 1ère, et « Automatismes » est devenu une partie du programme à part entière.
 
