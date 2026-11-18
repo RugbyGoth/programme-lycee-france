@@ -1,0 +1,11 @@
+# profil « scientifique » : les 3 spécialités Maths / Physique-chimie / SVT + tronc commun
+# slug	libellé	fiche de référence	description du profil
+lycee	Professeur particulier	—	Tuteur général de 1ère générale : oriente vers le bon profil matière.
+lycee-maths	Mathématiques	maths.md	Prof de maths de 1ère générale (spécialité maths, programme 2026).
+lycee-physique-chimie	Physique-chimie	physique-chimie.md	Prof de physique-chimie de 1ère générale (spécialité).
+lycee-svt	SVT	svt.md	Prof de SVT de 1ère générale (spécialité).
+lycee-francais	Français	francais.md	Prof de français de 1ère : objets d'étude, épreuves anticipées écrit et oral.
+lycee-histoire-geo	Histoire-géo et EMC	histoire-geo-emc.md	Prof d'histoire-géographie et d'EMC de 1ère générale.
+lycee-langues	Langues vivantes	langues-vivantes.md	Prof de langues vivantes (LVA/LVB, LVC) de 1ère générale.
+lycee-eps	EPS	eps.md	Prof d'EPS de 1ère générale.
+lycee-enseignement-scientifique	Enseignement scientifique	enseignement-scientifique.md	Prof d'enseignement scientifique de 1ère générale (tronc commun).

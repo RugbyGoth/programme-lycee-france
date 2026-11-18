@@ -2,7 +2,7 @@
 
 - **Version du programme** : arrêté du 17 janvier 2019 (classes de première), publié au BO spécial n° 1 du 22 janvier 2019 ; classe de terminale : arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019. Ces deux arrêtés restent la référence : la note de service du 29 décembre 2025 (BO n° 4 du 22 janvier 2026) les cite encore pour les programmes limitatifs renouvelés à la rentrée 2026.
 - **Source PDF** : https://eduscol.education.gouv.fr/sites/default/files/document/spe567annexe22-11063846pdf-83196.pdf (document unique : préambule commun + un chapitre par enseignement)
-- **Volume horaire** : 4 h/semaine en première, 6 h/semaine en terminale. Épreuve de spécialité coefficient 16.
+- **Volume horaire** : 4 h/semaine en première, 6 h/semaine en terminale. Les deux épreuves de spécialité totalisent un coefficient 16 (8 chacune).
 
 La spécialité « arts » recouvre **sept** enseignements : arts du cirque, arts plastiques, cinéma-audiovisuel, danse, histoire des arts, musique, théâtre. Les six enseignements demandés sont détaillés ci-dessous ; les arts du cirque figurent dans le même PDF.
 

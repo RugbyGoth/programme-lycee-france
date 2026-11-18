@@ -59,6 +59,13 @@ cd lycee-1ere
 powershell -ExecutionPolicy Bypass -File .\install.ps1
 ```
 
+**Profil restreint aux 3 spécialités scientifiques** (Maths + Physique-chimie + SVT) plus le tronc commun — 9 profils au lieu de 19 :
+
+```bash
+./install.sh --preset scientifique
+powershell -ExecutionPolicy Bypass -File .\install.ps1 -Preset subjects-scientifique.txt
+```
+
 Le script :
 - installe le skill dans le profil par défaut ;
 - crée un profil par matière (`lycee-maths`, `lycee-svt`…) en clonant ta config et ta clé API ;

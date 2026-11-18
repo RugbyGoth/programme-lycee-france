@@ -6,7 +6,8 @@
 #   powershell -ExecutionPolicy Bypass -File .\install.ps1 -DryRun
 param(
     [switch]$SkillOnly,
-    [switch]$DryRun
+    [switch]$DryRun,
+    [string]$Preset = 'subjects.txt'
 )
 
 $ErrorActionPreference = 'Stop'
@@ -67,7 +68,7 @@ if ($SkillOnly) { Say ""; Say "Fait (skill seul)."; exit 0 }
 Say ""
 Say "-- Profils par matiere"
 $created = 0; $skipped = 0; $failed = 0
-$rows = Get-Content (Join-Path $RepoDir 'subjects.txt') -Encoding UTF8 |
+$rows = Get-Content (Join-Path $RepoDir $Preset) -Encoding UTF8 |
         Where-Object { $_ -and -not $_.StartsWith('#') }
 
 foreach ($row in $rows) {

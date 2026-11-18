@@ -2,7 +2,7 @@
 
 - **Version du programme** : arrêté du 2 juin 2021 (JO du 13 juin 2021), publié au BO n° 25 du 24 juin 2021 (NOR MENE2116606A). Entrée en application : rentrée 2021 pour la première, rentrée 2022 pour la terminale. Aucune modification postérieure relevée au 18 novembre 2026.
 - **Source PDF** : https://cache.media.education.gouv.fr/file/25/49/1/ensel606_annexe_1413491.pdf (annexe du BO n° 25 du 24 juin 2021)
-- **Volume horaire** : 4 h/semaine en première (144 h/an), 6 h/semaine en terminale (216 h/an). Épreuve de spécialité coefficient 16.
+- **Volume horaire** : 4 h/semaine en première (144 h/an), 6 h/semaine en terminale (216 h/an). Les deux épreuves de spécialité totalisent un coefficient 16 (8 chacune).
 
 ## Parties du programme
 L'enseignement s'organise autour de **trois types de contenus complémentaires** :

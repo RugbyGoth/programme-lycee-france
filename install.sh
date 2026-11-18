@@ -13,12 +13,16 @@ SKILL_SRC="$REPO_DIR/skill"
 SKILL_NAME="programmes-lycee-france"
 DRY=0
 SKILL_ONLY=0
-for a in "$@"; do
-  case "$a" in
+PRESET="subjects.txt"
+while [ $# -gt 0 ]; do
+  case "$1" in
     --dry-run) DRY=1 ;;
     --skill-only) SKILL_ONLY=1 ;;
-    -h|--help) sed -n '2,8p' "$0"; exit 0 ;;
+    --preset) shift; case "${1:-}" in scientifique) PRESET="subjects-scientifique.txt" ;; *) PRESET="$1" ;; esac ;;
+    -h|--help) sed -n '2,9p' "$0"; exit 0 ;;
+    *) echo "option inconnue : $1"; exit 2 ;;
   esac
+  shift
 done
 
 say() { printf '%s\n' "$*"; }
@@ -153,7 +157,7 @@ EOSOUL
     say "  ✗ $slug — échec de création (voir : hermes profile list)"
     FAILED=$((FAILED+1))
   fi
-done < "$REPO_DIR/subjects.txt"
+done < "$REPO_DIR/$PRESET"
 
 # ------------------------------------------------------------ 5. récapitulatif
 say ""
