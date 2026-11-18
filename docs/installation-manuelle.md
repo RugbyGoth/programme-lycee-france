@@ -8,9 +8,9 @@ Les libellés exacts de l'interface desktop peuvent varier d'une version à l'au
 
 ## Étape 1 — récupérer les fichiers
 
-1. Ouvrir https://github.com/RugbyGoth/lycee-1ere
+1. Ouvrir https://github.com/RugbyGoth/programme-lycee-france
 2. Bouton vert **Code** → **Download ZIP**
-3. Dézipper l'archive : on obtient un dossier `lycee-1ere-main` contenant `skill/`, `install.sh`, `subjects.txt`…
+3. Dézipper l'archive : on obtient un dossier `programme-lycee-france-main` contenant `skill/`, `install.sh`, `subjects.txt`…
 
 ## Étape 2 — trouver le dossier de données Hermes
 
@@ -29,7 +29,7 @@ Si l'un de ces dossiers n'existe pas, cherche un dossier nommé `hermes` dans le
 ## Étape 3 — installer le skill
 
 1. Dans `<données Hermes>\skills\`, créer un dossier nommé **`programmes-lycee-france`**
-2. Copier dedans **tout le contenu** de `lycee-1ere-main/skill/` (SKILL.md, le dossier `references`, le dossier `scripts`)
+2. Copier dedans **tout le contenu** de `programme-lycee-france-main/skill/` (SKILL.md, le dossier `references`, le dossier `scripts`)
 
 Résultat attendu :
 

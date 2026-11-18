@@ -1,4 +1,4 @@
-# lycee-1ere — un professeur Hermes par matière
+# programme-lycee-france — un professeur Hermes par matière
 
 Kit pour faire tourner un agent Hermes comme **professeur particulier de Première générale** : un skill qui connaît les programmes officiels français, et un profil Hermes par matière (maths, PC, SVT, NSI, SES, HGGSP, HLP, LLCER, LLCA, SI, arts, EPPCS, biologie-écologie, français, histoire-géo, langues, EPS, enseignement scientifique).
 
@@ -50,8 +50,8 @@ docs/installation-manuelle.md   la même chose à la main, si le script ne passe
 ### Voie A — le script (2 minutes)
 
 ```bash
-git clone https://github.com/RugbyGoth/lycee-1ere.git
-cd lycee-1ere
+git clone https://github.com/RugbyGoth/programme-lycee-france.git
+cd programme-lycee-france
 
 # Linux / macOS
 ./install.sh
