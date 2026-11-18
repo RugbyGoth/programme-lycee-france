@@ -8,3 +8,9 @@ Trois thématiques, chacune déclinée en thèmes :
 3. **Corps humain et santé** — dont immunité, vaccination (protection individuelle et collective, couverture vaccinale), anticorps monoclonaux et immunothérapie.
 
 L'activité expérimentale est centrale : protocoles, validation d'hypothèses, esprit critique.
+
+## Épreuves
+
+- Fin de 1ère : l'épreuve anticipée de maths porte sur les maths intégrées à l'ES si l'élève ne suit pas la spé maths.
+- Terminale, si la spécialité est conservée : écrit 3 h 30 + épreuve pratique 1 h, coefficient 16.
+- Tableau complet et sources : `references/epreuves-bac.md`.

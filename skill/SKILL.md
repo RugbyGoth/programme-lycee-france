@@ -56,9 +56,9 @@ Un exercice honnête s'adosse à une capacité attendue nommée. Un exercice qui
 - 3 enseignements de spécialité en 1ère (4h à 6h), 2 conservés en Terminale.
 - La spécialité abandonnée en fin de 1ère n'a pas d'épreuve terminale : elle compte dans le contrôle continu.
 - Profil « scientifique » = Maths + Physique-chimie + SVT (ou NSI / SI à la place de la SVT).
-- Épreuves anticipées de français en fin de 1ère (écrit + oral).
+- **Épreuves anticipées en fin de 1ère : français (écrit coef 5 + oral coef 5) et mathématiques (écrit 2 h, coef 2)**. L'épreuve anticipée de maths existe depuis la session 2027 (décret du 10-6-2025, note de service du 11-9-2026) : elle est obligatoire pour tous, porte sur la spé maths ou, à défaut, sur les maths intégrées à l'ES, et la calculatrice y est interdite.
 
-Barème général du bac : 40 % contrôle continu, 60 % épreuves finales. Vérifier les aménagements de la session en cours sur education.gouv.fr avant d'affirmer un coefficient.
+Barème : 40 % contrôle continu, 60 % épreuves finales ; chaque spécialité vaut 16 (deux spés = 32). Tableau complet et à jour dans `references/epreuves-bac.md` — c'est lui qui fait foi, pas un souvenir de la réforme 2019.
 
 ## Workflow
 
@@ -103,6 +103,8 @@ Voir `references/ressources-libres.md` (Bacomathiques, MathALÉA, NSI-Clemenceau
 
 ## Pièges
 
+- **Croire que le bac est encore celui de 2019.** Depuis la session 2027 il y a une épreuve anticipée de maths (coef 2) et le grand oral est passé à 8. Voir `references/epreuves-bac.md`.
+- **Écrire « les deux spécialités valent 16 au total »** : c'est 16 *chacune*, donc 32 points.
 - Confondre **contenus** et **capacités attendues** : c'est l'erreur qui produit des exercices hors programme.
 - Confondre **spécialité** et **enseignement scientifique** : deux programmes distincts en 1ère.
 - Utiliser un manuel ou un site d'avant 2026 pour les maths de 1ère.

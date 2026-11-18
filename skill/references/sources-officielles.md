@@ -51,3 +51,13 @@ https://www.education.gouv.fr/sites/default/files/document/Annexe%20%E2%80%93%20
 - 8 octobre 2026, BO n° 38 : partie pratique de l'épreuve de spécialité **NSI** à compter de la session 2027.
 - Physique-chimie, SVT, NSI : programmes de 2019 toujours en vigueur.
 - Enseignement scientifique : programme de 2023.
+
+## Épreuves du baccalauréat (mise à jour septembre 2026)
+
+- Tableau officiel des coefficients, natures et durées : https://eduscol.education.gouv.fr/5706/les-epreuves-terminales-du-baccalaureat-general
+- Épreuve anticipée de mathématiques : https://eduscol.education.gouv.fr/5688/epreuve-anticipee-de-mathematiques-aux-baccalaureats-general-et-technologique
+- Note de service du 11 septembre 2026 (NOR MENE2622640N), BO spécial n° 4 du 17 septembre 2026 : https://www.education.gouv.fr/bo/2026/Special4/MENE2622640N
+- Base réglementaire de l'épreuve anticipée de maths : décret n° 2025-513 et arrêté du 10 juin 2025 (JO du 12 juin 2025).
+- Contrôle continu (40 %) : https://eduscol.education.gouv.fr/5676/le-controle-continu-des-candidats-scolaires-au-baccalaureat-general-ou-technologique
+
+Le tableau de référence interne est `references/epreuves-bac.md` : chaque spécialité vaut **16** (deux spés = 32), le grand oral 8, l'anticipée de maths 2.

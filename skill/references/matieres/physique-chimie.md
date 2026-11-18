@@ -18,3 +18,9 @@ Quatre thèmes, précédés de « mesure et incertitudes » (incertitude-type é
 - Modèles ondulatoire et particulaire de la lumière : domaines des ondes électromagnétiques, λ = c/ν, photon et énergie E = hν, niveaux d'énergie quantifiés, spectres d'émission et d'absorption.
 
 Capacités expérimentales transversales : sécurité au laboratoire, utilisation d'un logiciel de simulation et de traitement des données.
+
+## Épreuves
+
+- Fin de 1ère : l'épreuve anticipée de maths porte sur les maths intégrées à l'ES si l'élève ne suit pas la spé maths.
+- Terminale, si la spécialité est conservée : écrit 3 h 30 + épreuve pratique 1 h, coefficient 16.
+- Tableau complet et sources : `references/epreuves-bac.md`.

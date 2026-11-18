@@ -30,6 +30,7 @@ Physique-chimie, SVT et NSI restent sur les programmes de 2019 ; l'enseignement 
 skill/                          le skill « programmes-lycee-france »
   SKILL.md                      quand l'utiliser, méthode, millésimes des programmes
   references/matieres/*.md      une fiche par matière (programme en vigueur, thèmes, épreuves)
+  references/epreuves-bac.md    coefficients et modalités des épreuves (session 2027 et après)
   references/sources-officielles.md   URL des PDF officiels + comment vérifier les versions
   references/ressources-libres.md     dépôts GitHub utilisables et leurs licences
   scripts/fetch_programmes.sh   télécharge les PDF du BO
@@ -133,6 +134,7 @@ Puis supprimer le dossier `skills/programmes-lycee-france` du répertoire de don
 ## Limites, dites franchement
 
 - Les fiches sont établies sur les **PDF officiels au 18 novembre 2026**. Les maths de 1ère ont changé à la rentrée 2026 (BO du 2 avril 2026) ; les autres disciplines sont sur les programmes 2019, l'enseignement scientifique sur celui de 2023. Si un BO paraît, relancer le script de téléchargement et comparer.
+- **Le bac n'est plus celui de 2019** : depuis la session 2027 il y a une épreuve anticipée de mathématiques (écrit 2 h, coefficient 2) en plus du français, et le grand oral vaut 8. `skill/references/epreuves-bac.md` porte le tableau officiel et sa source.
 - Certaines spécialités sont moins détaillées que d'autres (biologie-écologie, arts, EPPCS) : la fiche le dit quand une information n'a pas pu être vérifiée. Mieux vaut une fiche honnête qu'une fiche inventée.
 - Les **œuvres au programme de français** changent chaque année : la fiche renvoie à éduscol, elle ne fige pas de liste.
 - Aucun contenu de manuel ou de cours de professeur n'est recopié. Les ressources tierces citées (Bacomathiques, MathALÉA, NSI Clemenceau) gardent leurs licences, décrites dans `skill/references/ressources-libres.md`.

@@ -41,3 +41,9 @@ Organisation : **4 parties thématiques + 3 parties transversales**.
 - **Le produit scalaire et la géométrie repérée du cercle arrivent en 1ère** (ils étaient en Terminale).
 - « Automatismes » devient une partie du programme.
 - Une progression de 1ère antérieure à 2026 est donc fausse sur la fin d'année.
+
+## Épreuves
+
+- Fin de 1ère : écrit 2 h, coefficient 2, calculatrice interdite, sur le programme de spécialité maths.
+- Terminale, si la spécialité est conservée : écrit 4 h, coefficient 16.
+- Tableau complet et sources : `references/epreuves-bac.md`.
